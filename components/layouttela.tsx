@@ -113,7 +113,7 @@ export default function TelaHomeLayoutAutenticacao(
       </section>
       <footer className=" py-5 space-y-3 w-full bg-zinc-800">
         <div className="container mt-2 flex justify-center items-center gap-3">
-          <Link href="https:www.linkedin.com/in/gabriel-de-paula-274a0421b" className="text-muted-foreground  hover:text-slate-50 transition-colors" prefetch={false}>
+          <Link href="https://www.linkedin.com/in/gabriel-de-paula-274a0421b/" className="text-muted-foreground  hover:text-slate-50 transition-colors" prefetch={false}>
             <svg
               xmlns="http://www.w3.org/2000/svg"
               width="24"
